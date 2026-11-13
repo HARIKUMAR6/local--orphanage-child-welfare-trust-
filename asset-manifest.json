@@ -1,0 +1,253 @@
+{
+  "_note": "Internal record only. Not served (lives outside /public). Never display in site UI.",
+  "provider": "Pexels",
+  "licence": "Pexels License (free for commercial use, no attribution required). Not a model release: see permissionStatus.",
+  "permissionStatus": "Licence confirmed only at the Pexels site-wide level. Per-image property/model releases NOT verified (Pexels does not supply them). No identifiable children are used.",
+  "images": [
+    {
+      "file": "hero-1.jpg",
+      "page": "home-1",
+      "pexelsId": 10615161,
+      "subject": "children silhouetted flying a kite at sunset (non-identifiable)"
+    },
+    {
+      "file": "intro.jpg",
+      "page": "home-1",
+      "pexelsId": 5905445,
+      "subject": "empty classroom with desks and supplies"
+    },
+    {
+      "file": "prog-education.jpg",
+      "page": "home-1",
+      "pexelsId": 5905452,
+      "subject": "open copybooks on a school desk"
+    },
+    {
+      "file": "prog-nutrition.jpg",
+      "page": "home-1",
+      "pexelsId": 2335692,
+      "subject": "table of cooked meals and rice"
+    },
+    {
+      "file": "prog-shelter.jpg",
+      "page": "home-1",
+      "pexelsId": 3958960,
+      "subject": "tidy children's bedroom with bunk bed (no people)"
+    },
+    {
+      "file": "prog-skills.jpg",
+      "page": "home-1",
+      "pexelsId": 5474285,
+      "subject": "hands typing on laptop"
+    },
+    {
+      "file": "prog-protection.jpg",
+      "page": "home-1",
+      "pexelsId": 28731612,
+      "subject": "adult hand holding child hand (no faces)"
+    },
+    {
+      "file": "story-1.jpg",
+      "page": "home-1",
+      "pexelsId": 5212343,
+      "subject": "hands writing in notebook (no faces)"
+    },
+    {
+      "file": "story-2.jpg",
+      "page": "home-1",
+      "pexelsId": 9872291,
+      "subject": "child hands drawing a family (face out of frame)",
+      "replacedOn": "2026-11-13"
+    },
+    {
+      "file": "story-3.jpg",
+      "page": "home-1",
+      "pexelsId": 33234673,
+      "subject": "adult and child silhouettes at sunset (non-identifiable)"
+    },
+    {
+      "file": "cta-1.jpg",
+      "page": "home-1",
+      "pexelsId": 12548443,
+      "subject": "children silhouetted at sunset (non-identifiable)"
+    },
+    {
+      "file": "hero-2.jpg",
+      "page": "home-2",
+      "pexelsId": 620530,
+      "subject": "children silhouetted jumping at sunset (non-identifiable)"
+    },
+    {
+      "file": "challenge.jpg",
+      "page": "home-2",
+      "pexelsId": 6641892,
+      "subject": "child with backpack seen from behind (non-identifiable)",
+      "replacedOn": "2026-11-13"
+    },
+    {
+      "file": "promise-a.jpg",
+      "page": "home-2",
+      "pexelsId": 28503359,
+      "subject": "school backpack and pencils"
+    },
+    {
+      "file": "promise-b.jpg",
+      "page": "home-2",
+      "pexelsId": 3845458,
+      "subject": "baby hand in adult palm (no faces)"
+    },
+    {
+      "file": "approach-1.jpg",
+      "page": "home-2",
+      "pexelsId": 236164,
+      "subject": "child hand held by adult (no faces)"
+    },
+    {
+      "file": "approach-2.jpg",
+      "page": "home-2",
+      "pexelsId": 10854908,
+      "subject": "children's room with beds and toys (no people)"
+    },
+    {
+      "file": "approach-3.jpg",
+      "page": "home-2",
+      "pexelsId": 5905959,
+      "subject": "hands writing at shared desk (no faces)"
+    },
+    {
+      "file": "approach-4.jpg",
+      "page": "home-2",
+      "pexelsId": 3042459,
+      "subject": "child with backpack walking away, seen from behind (non-identifiable)",
+      "replacedOn": "2026-11-13"
+    },
+    {
+      "file": "changemaker.jpg",
+      "page": "home-2",
+      "pexelsId": 6994962,
+      "subject": "tins and staples for food donation"
+    },
+    {
+      "file": "cta-2.jpg",
+      "page": "home-2",
+      "pexelsId": 978695,
+      "subject": "child silhouetted kicking ball at sunset (non-identifiable)"
+    },
+    {
+      "file": "about-hero.jpg",
+      "page": "about",
+      "pexelsId": 10387565,
+      "subject": "hands holding an open book on a bed (no face)",
+      "replacedOn": "2026-11-13"
+    },
+    {
+      "file": "about-who.jpg",
+      "page": "about",
+      "pexelsId": 5137980,
+      "subject": "bunk-bed dormitory room (no people)",
+      "replacedOn": "2026-11-13"
+    },
+    {
+      "file": "about-commitment.jpg",
+      "page": "about",
+      "pexelsId": 3661243,
+      "subject": "wooden toys and blocks (child hand only)"
+    },
+    {
+      "file": "about-cta.jpg",
+      "page": "about",
+      "pexelsId": 6564339,
+      "subject": "many hands stacked together (no faces)"
+    },
+    {
+      "file": "work-hero-1.jpg",
+      "page": "our-work",
+      "pexelsId": 590493,
+      "subject": "library shelves"
+    },
+    {
+      "file": "work-hero-2.jpg",
+      "page": "our-work",
+      "pexelsId": 7025517,
+      "subject": "art supplies on a table"
+    },
+    {
+      "file": "work-hero-3.jpg",
+      "page": "our-work",
+      "pexelsId": 11894049,
+      "subject": "first aid kit"
+    },
+    {
+      "file": "work-education.jpg",
+      "page": "our-work",
+      "pexelsId": 36650154,
+      "subject": "empty classroom with wooden desks and chalkboard"
+    },
+    {
+      "file": "work-nutrition.jpg",
+      "page": "our-work",
+      "pexelsId": 11631746,
+      "subject": "crate of fresh fruit and vegetables"
+    },
+    {
+      "file": "work-health.jpg",
+      "page": "our-work",
+      "pexelsId": 12955896,
+      "subject": "hands holding a stethoscope (no face)"
+    },
+    {
+      "file": "work-development.jpg",
+      "page": "our-work",
+      "pexelsId": 4430308,
+      "subject": "children on swings, distant and backlit (non-identifiable)",
+      "replacedOn": "2026-11-13"
+    },
+    {
+      "file": "donate-hero.jpg",
+      "page": "donate",
+      "pexelsId": 10905774,
+      "subject": "hands cradling a red heart (no faces)"
+    },
+    {
+      "file": "donate-why.jpg",
+      "page": "donate",
+      "pexelsId": 6646952,
+      "subject": "adult volunteers packing food-aid boxes (adult faces visible; release not verified)",
+      "replacedOn": "2026-11-13"
+    },
+    {
+      "file": "donate-use.jpg",
+      "page": "donate",
+      "pexelsId": 5088008,
+      "subject": "school supplies flat lay"
+    },
+    {
+      "file": "donate-cta.jpg",
+      "page": "donate",
+      "pexelsId": 6995047,
+      "subject": "adult volunteers sorting donated clothes (adult faces visible; release not verified)",
+      "replacedOn": "2026-11-13"
+    },
+    {
+      "file": "contact-hero.jpg",
+      "page": "contact",
+      "pexelsId": 7156178,
+      "subject": "adult volunteers sorting donation boxes (adult faces visible; release not verified)",
+      "replacedOn": "2026-11-13"
+    },
+    {
+      "file": "contact-visit.jpg",
+      "page": "contact",
+      "pexelsId": 16096531,
+      "subject": "flowering branches over a garden gate (generic, not the Trust's premises)"
+    },
+    {
+      "file": "contact-cta.jpg",
+      "page": "contact",
+      "pexelsId": 28656153,
+      "subject": "child hand colouring a drawing (face out of frame)",
+      "replacedOn": "2026-11-13"
+    }
+  ],
+  "verificationNote": "Pexels IDs were found by search and each image was visually inspected. The Pexels licence was NOT re-verified per photo page (Pexels was not reachable by script); no model/property releases are held. Only non-identifiable children are shown. Adult volunteer faces appear in contact-hero, donate-why, donate-cta without verified releases. contact-visit shows a generic gate, not the Trust's premises."
+}

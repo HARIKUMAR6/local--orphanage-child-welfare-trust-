@@ -1,0 +1,15 @@
+{
+  "name": "aarohan-child-welfare-trust",
+  "version": "0.1.0",
+  "private": true,
+  "description": "Aarohan Child Welfare Trust – static website (Phase 1 foundation)",
+  "scripts": {
+    "build": "node node_modules/@tailwindcss/cli/dist/index.mjs -i src/css/input.css -o public/css/style.css --minify",
+    "dev": "node node_modules/@tailwindcss/cli/dist/index.mjs -i src/css/input.css -o public/css/style.css --watch",
+    "contrast": "node scripts/check-contrast.mjs"
+  },
+  "devDependencies": {
+    "@tailwindcss/cli": "^4.1.0",
+    "tailwindcss": "^4.1.0"
+  }
+}
